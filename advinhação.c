@@ -43,6 +43,8 @@ int main(){
 	printf("\n");
 	printf("||   A cada tentativa errada o jogador perde pontos equivalentes ao número correto.  ||");
 	printf("\n");
+	printf("||                     VOCE COMEÇA COM 1000 PONTOS!!                                 ||");
+	printf("\n");
 	printf("----------------------------------------------------------------------------------------");
 	printf("\n\n");
 	
